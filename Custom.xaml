@@ -13,7 +13,7 @@
 <local:MyCard Title="点击展开服务器列表" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <local:MyButton Margin="0,8,0,0" Width="250" Height="35"
-                 Text="1.使用 LY-SakuraServer 进入 落樱服务器" EventType="启动游戏" EventData="LY-SakuraServer|bgp.geekrcloud.com:33204" ToolTip="服务器地址：bgp.geekrcloud.com:33204" />
+                 Text="1.使用 LY-SakuraServer 进入 落樱服务器" EventType="启动游戏" EventData="LY-SakuraServer|bgp.geekrcloud.com:33202" ToolTip="服务器地址：bgp.geekrcloud.com:33202" />
     </StackPanel>
 </local:MyCard>
     
